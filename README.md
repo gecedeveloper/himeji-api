@@ -1,18 +1,18 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Python REST API built with Flask, Flask-RESTful, Flask-JWT, Flask-SQLAlchemy
 
-### IMPLEMENTATION
+### WHATS HIMEJI?
 
-* AplicaciÛn hecha con Flask y es una  Rest API que servir· como sistema base de aplicaciones empresariales.
+* Tiny REST API to manage small business.
 * Version 0.1
-* [Repositorio bitbucket](https://bitbucket.org/zendostrike/himeji)
 
 ### INSTALLATION
 
-pip install Flask
+See requirements.txt to see libs needed.
+
 python app.py
 
 ### CONTACT
 
-zendostrike => gramirez@nedleysupport.com
+[Giancarlo Ram√≠rez](https://www.linkedin.com/in/giancarlo-ram%C3%ADrez-reyes-215547128/)
